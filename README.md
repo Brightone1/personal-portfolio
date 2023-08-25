@@ -2,7 +2,6 @@
 
 Welcome to the Personal Portfolio Project! This project showcases the use of HTML, CSS, and JavaScript to create an interactive portfolio website where you can present and highlight different personas. Whether you're a designer, developer, writer, or anyone wanting to display multiple personas, this project provides a template that you can easily customize.
 
-![Personal Portfolio Project Screenshot](screenshot.png)
 
 ## Table of Contents
 
