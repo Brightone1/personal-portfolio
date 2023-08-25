@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    color: #222;
+    background: #fff;
+}
+body.dark-theme{
+    color: #eee;
+    background: #15202B;
+}
+a{
+    color: #0033cc;
+}
+body.dark-theme a{
+    color: #809fff;
+}
+.btn-toggle{
+    color: white;
+    background-color: #087099;
+    border-radius: 3px;
+    padding: 3px;
+    font-weight: 700;
+    font-size: 19px;
+
+}
+.btn-toggle:hover{
+    cursor: pointer;
+    padding-left: 5px;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+body.dark-theme .btn-toggle{
+    background: white;
+    color: black;
+}
