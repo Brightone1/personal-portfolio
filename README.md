@@ -32,7 +32,7 @@ The Persona Portfolio Project is designed to help you create an engaging portfol
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/personal-portfolio.git
+   git clone https://github.com/Brightone1/personal-portfolio.git
    ```
 
 2. Navigate to the project directory:
