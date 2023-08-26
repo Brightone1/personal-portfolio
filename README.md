@@ -53,9 +53,9 @@ The Persona Portfolio Project is designed to help you create an engaging portfol
 
 1. **Persona Data:** Open the `port.html` file and locate the `<section class="" id="" >` sections. Customize the data within these sections to represent your own personas. Update the images, names, descriptions, and any other information.
 
-2. **Styling:** The styling is managed through the `.css` file in 'css' folder. Feel free to modify the styles to match your personal branding or preferred aesthetics.
+2. **Styling:** The styling is managed through the `.css` files in 'css' directory. Feel free to modify the styles to match your personal branding or preferred aesthetics.
 
-3. **JavaScript:** The interactive behavior of the portfolio is handled by the `.js` files in 'js' foder. You can make changes to how the persona cards are displayed and how the detailed views are shown.
+3. **JavaScript:** The interactive behavior of the portfolio is handled by the `.js` files in 'js' directory. You can make changes to how the persona cards are displayed and how the detailed views are shown.
 
 ## Contributions
 
